@@ -25,10 +25,10 @@ export const PerfilPage = () => {
  <div class="espacio3D">
   <div class="cubo3D">
     <div class="base"></div>
-    <aside class="cara cara1"><img src="/public/Champion_Ahri_HP.png" alt="gif de algo" width="100%" height="100%"/></aside>
-    <aside class="cara cara2"><img src="/public/Champion_ashe_HP.png" alt="gif de algo" width="100%" height="100%"/></aside>
-    <aside class="cara cara3"><img src="/public/logo_sinF.png" alt="gif de algo" width="100%"/></aside>
-    <aside class="cara cara4"><center><img src="/public/Champion_garen_HP.png" alt="gif de algo" width="82%"/></center></aside>
+    <aside class="cara cara1"><img src="/Champion_Ahri_HP.png" alt="gif de algo" width="100%" height="100%"/></aside>
+    <aside class="cara cara2"><img src="/Champion_ashe_HP.png" alt="gif de algo" width="100%" height="100%"/></aside>
+    <aside class="cara cara3"><img src="/logo_sinF.png" alt="gif de algo" width="100%"/></aside>
+    <aside class="cara cara4"><center><img src="/Champion_garen_HP.png" alt="gif de algo" width="82%"/></center></aside>
     <aside class="cara cara5"></aside>
     <aside class="cara cara6"></aside>
   </div>
