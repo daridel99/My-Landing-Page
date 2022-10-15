@@ -15,12 +15,4 @@ export const proyectos = [
     url_preview: "https://dazzling-ganache-9abc46.netlify.app/",
     url_github: "https://github.com/daridel99/My-Landing-Page",
   },
-  {
-    id: 3,
-    titulo: "Proyecto 3",
-    descripcion: "Descripcion del proyecto 3",
-    url: "https://blog.ida.cl/wp-content/uploads/sites/5/2020/04/tamano-redes-blog-655x470.png",
-    url_preview: "https://facebook.com",
-    url_github: "https://facebook.com",
-  },
 ];
