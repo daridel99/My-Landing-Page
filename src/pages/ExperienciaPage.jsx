@@ -17,7 +17,7 @@ export const ExperienciaPage = () => {
       de robótica; además atención <br/> al cliente y diseño de modelos 3d para 
       prototipado en impresión 3d.
     <br/><br/>
-    Y en conjunto podré crear e iniciar mi camino laboral.
+    Y en conjunto contigo podré crear e iniciar mi camino laboral.
 </h3>
       </div>
       </>
