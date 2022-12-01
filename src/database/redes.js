@@ -2,7 +2,7 @@ export const redes = [
     {
       id: 1,
       titulo: "wpp",
-      url: "https://pps.whatsapp.net/v/t61.24694-24/295143036_151670217465767_8500922905199564714_n.jpg?ccb=11-4&oh=01_AVzBTeXzcpyNZL1Q1lwacvqPNABPiPrMT9ThuW_1Uvsd_g&oe=63500D3C",
+      url: "https://pps.whatsapp.net/v/t61.24694-24/300895025_138027642316532_6351405213108148544_n.jpg?ccb=11-4&oh=01_AdTKeKfu8dZJWb8wlS-jx0Qr7_VkUoXvlxrpcgpR6nhBEA&oe=6395F3FE",
       url_preview: "https://api.whatsapp.com/send?phone=573133589307",
     },
     {
