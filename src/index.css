@@ -3,7 +3,13 @@
 @import "tailwindcss/utilities";
 
 :root {
-  background-color: #ccc;
+  background-color: #ffffffd5;
+}
+
+.superpuesto {
+
+  z-index: 9999;
+
 }
 
 section {
@@ -18,7 +24,7 @@ section {
   position: -webkit-sticky;
   position: sticky;
   top: -7px;
-  z-index: 1;
+  z-index: 0;
   height: 30px;
   min-height: 30px;
   width: calc(100% - 1.0rem);
@@ -52,7 +58,7 @@ section {
 ul {
   display: flex;
   gap: 1rem;
-  font-size: 0.9rem;
+  font-size: 1.2rem;
   list-style: none;
   padding: 0;
 }
@@ -80,8 +86,9 @@ div.espacio3D {
   border: 0px solid rgba(0,255,0,0.5);
   /*position: relative;*/
   position: relative;
-  left: 5%;
-  top: 19%;
+  z-index: 0;
+  left: 6%;
+  top: 20%;
   perspective-origin: center -50%;
   perspective: 500px;
   transform: scale(1);
@@ -154,7 +161,6 @@ aside.cara6 { /* arriba */
 }
 
 .welcome__info{
-
   width: 50%;
   height:20%;
   position: relative; 
@@ -165,13 +171,15 @@ aside.cara6 { /* arriba */
 .welcome__info__descripcion{
 
   font-family: arial;
-  font-size:x-large;
+  /*font-size:x-large;*/
+  font-size: 1.2em;
 
 }
 
 .ubi-table{
 
   position: relative; 
+  z-index: 0;
   left: 12%; 
   top: 0px; 
 

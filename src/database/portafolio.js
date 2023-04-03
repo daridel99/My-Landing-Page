@@ -31,5 +31,29 @@ export const portafolio = [
         url_preview: "https://github.com/daridel99/UMNG-robotica",
         url_github: "https://github.com/daridel99/UMNG-robotica",
       },
+      {
+        id: 5,
+        titulo: "To Do List",
+        descripcion: "App de listado de tareas con opcion de editar, crear y borrar",
+        url: "https://cdn.discordapp.com/attachments/987521562406187008/1023479202848198656/unknown.png",
+        url_preview: "https://luxury-figolla-9dd824.netlify.app/",
+        url_github: "https://github.com/daridel99/ToDoList",
+      },
+      {
+        id: 6,
+        titulo: "Landing Page",
+        descripcion: "Desarrollo de mi Landing Page personal",
+        url: "https://cdn.discordapp.com/attachments/987521562406187008/1023653053448069140/unknown.png",
+        url_preview: "https://dazzling-ganache-9abc46.netlify.app/",
+        url_github: "https://github.com/daridel99/My-Landing-Page",
+      },
+      {
+        id: 7,
+        titulo: "Proyecto_BD_SQL",
+        descripcion: "Desarrollo de la interfaz para el manejo de datos de una DB en SQL",
+        url: "https://github.com/UMNG1802992/Proyecto_BD_SQL/blob/main/Sin%20t%C3%ADtulo.jpg?raw=true",
+        url_preview: "https://github.com/UMNG1802992/Proyecto_BD_SQL",
+        url_github: "https://github.com/UMNG1802992/Proyecto_BD_SQL",
+      },
   ];
   

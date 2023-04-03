@@ -41,7 +41,7 @@ export const EstudiosPage = () => {
             <br/><br/>
             Diplomado en Desarrollo Front-end con React JS <br/>
             FIMLM – LIVE BOX <br/>
-            27/05/2022 – EN CURSO <br/>
+            27/05/2022 <br/>
             <br/><br/>
         </td> 
       </tr> 

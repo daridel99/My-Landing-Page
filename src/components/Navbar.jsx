@@ -5,7 +5,7 @@ export default function Navbar() {
   const [navbarOpen, setNavbarOpen] = React.useState(false);
   return (
     <>
-      <nav className="flex flex-wrap items-center justify-between px-2 py-3 bg-blue-500 mb-3 fixed w-full">
+      <nav className="flex flex-wrap items-center justify-between px-2 py-3 bg-blue-500 mb-3 fixed w-full superpuesto">
         <div className="container px-4 mx-auto flex flex-wrap items-center justify-between">
           <div className="w-full relative flex justify-between lg:w-auto lg:static lg:block lg:justify-start">
             <a
@@ -32,7 +32,8 @@ export default function Navbar() {
             id="example-navbar-danger"
           >
             <ul className="flex flex-col lg:flex-row list-none lg:ml-auto">
-              <Link
+
+             {/* <Link
                 smooth
                 spy
                 to="inicio"
@@ -40,7 +41,8 @@ export default function Navbar() {
                 <span className="ml-2 text-white text-xl">
                   Inicio
                 </span>
-              </Link>
+              </Link>*/}
+
               <Link
                 smooth
                 spy
@@ -50,6 +52,7 @@ export default function Navbar() {
                   Perfil
                 </span>
               </Link>
+
               <Link
                 smooth
                 spy
@@ -59,6 +62,7 @@ export default function Navbar() {
                   Estudios
                 </span>
               </Link>
+
               <Link
                 smooth
                 spy
@@ -68,6 +72,7 @@ export default function Navbar() {
                   Experiencia
                 </span>
               </Link>
+
               <Link
                 smooth
                 spy
@@ -77,6 +82,7 @@ export default function Navbar() {
                   Portafolio
                 </span>
               </Link>
+
               <Link
                 smooth
                 spy
@@ -86,6 +92,17 @@ export default function Navbar() {
                   Contacto
                 </span>
               </Link>
+
+              <Link
+                smooth
+                spy
+                to="HDV"
+              >
+                <span className="ml-2 text-white text-xl">
+                  Hoja de Vida
+                </span>
+              </Link>
+
             </ul>
           </div>
         </div>
