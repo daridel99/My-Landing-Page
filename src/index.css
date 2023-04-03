@@ -75,9 +75,23 @@ a {
 }  
 .scrolling-wrapper .card {
   display: inline-block;
-  width: 800px;
+  width: 80%;
   align-items: center;
 }
+
+.scrolling-wrapper-y {
+  overflow-y: scroll;
+  height: 50%;
+}
+
+.item-y {
+  display: block;
+  width: 50%;
+  height: 50%;
+  margin-bottom: 20px;
+  background-color: #f2f2f2;
+}
+
 
 div.espacio3D {
   width: 500px;
@@ -91,7 +105,7 @@ div.espacio3D {
   top: 20%;
   perspective-origin: center -50%;
   perspective: 500px;
-  transform: scale(1);
+  transform: scale(.9);
 
 }
 

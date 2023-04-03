@@ -1,15 +1,17 @@
-import React from 'react'
+import React from 'react';
 import { Document, Page } from 'react-pdf';
+
+import pdfFile from '/hojadevida_2.pdf';
 
 export const HDV = () => {
   return (
-
-    <>
-      <Document file="../database/hojadevida_2.pdf">
-        <Page pageNumber={1} />
-      </Document>
-    </>
-
+<>
+    <h1 className='font-bold text-2xl'>Hoja de Vida</h1>
+    <div class="scrolling-wrapper-y">
+    <img src="/hojadevida_2_page1.jpg" alt="HDV" width="75%" height="75%"/>
+    </div>
+   
+</>
 
   );
 };
