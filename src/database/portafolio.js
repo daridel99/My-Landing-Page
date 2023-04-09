@@ -2,7 +2,7 @@ export const portafolio = [
     {
       id: 1,
       titulo: "cooking",
-      descripcion: "Pagina web que posee recetas de sal, dulce y unas bebidas.",
+      descripcion: "Pagina web que posee recetas de sal, dulce y unas bebidas, desarrollada en HTML, CSS y JS.",
       url:"https://cdn.discordapp.com/attachments/987521562406187008/1023436962142617651/unknown.png",
       url_preview:"https://daridel99.github.io/cooking/" ,
       url_github: "https://github.com/daridel99/cooking",
@@ -10,7 +10,7 @@ export const portafolio = [
     {
       id: 2,
       titulo: "Fan page de Miutsy",
-      descripcion: "Fan page de Miutsy, quien es una creadora de contenido Vtuber.",
+      descripcion: "Fan page de Miutsy, quien es una creadora de contenido Vtuber, desarrollada en HTML, CSS y JS.",
       url: "https://cdn.discordapp.com/attachments/987521562406187008/1023456367283011584/unknown.png",
       url_preview: "https://daridel99.github.io/Miutsy/",
       url_github: "https://github.com/daridel99/Miutsy",
@@ -18,7 +18,7 @@ export const portafolio = [
     {
       id: 3,
       titulo: "App Trello",
-      descripcion: "Herramienta de organizacion de tarea tipo Trello",
+      descripcion: "Herramienta de organizacion de tarea tipo Trello, desarrollada en HTML, CSS y JS.",
       url: "https://cdn.discordapp.com/attachments/987521562406187008/1023468813024514078/unknown.png",
       url_preview: "https://daridel99.github.io/M3U2TrelloAppDarioDelgado/",
       url_github: "https://github.com/daridel99/M3U2TrelloAppDarioDelgado",
@@ -26,7 +26,7 @@ export const portafolio = [
     {
         id: 4,
         titulo: "Interfaz Robotica (Manipulador)",
-        descripcion: "Interfaz grafica diseñada con el proposito de calcular DK e IK, ademas de controlar robots",
+        descripcion: "Interfaz grafica diseñada con el proposito de calcular DK e IK, ademas de controlar robots, desarrollada en PYTHON de manera conjunta.",
         url: "https://media.discordapp.net/attachments/987521562406187008/1023475289923268719/unknown.png?width=768&height=408",
         url_preview: "https://github.com/daridel99/UMNG-robotica",
         url_github: "https://github.com/daridel99/UMNG-robotica",
@@ -34,7 +34,7 @@ export const portafolio = [
       {
         id: 5,
         titulo: "To Do List",
-        descripcion: "App de listado de tareas con opcion de editar, crear y borrar",
+        descripcion: "App de listado de tareas con opcion de editar, crear y borrar, desarrollada en REACTJS.",
         url: "https://cdn.discordapp.com/attachments/987521562406187008/1023479202848198656/unknown.png",
         url_preview: "https://luxury-figolla-9dd824.netlify.app/",
         url_github: "https://github.com/daridel99/ToDoList",
@@ -42,7 +42,7 @@ export const portafolio = [
       {
         id: 6,
         titulo: "Landing Page",
-        descripcion: "Desarrollo de mi Landing Page personal",
+        descripcion: "Desarrollo de mi Landing Page personal, desarrollada en REACTJS.",
         url: "https://cdn.discordapp.com/attachments/987521562406187008/1023653053448069140/unknown.png",
         url_preview: "https://dazzling-ganache-9abc46.netlify.app/",
         url_github: "https://github.com/daridel99/My-Landing-Page",
@@ -50,7 +50,7 @@ export const portafolio = [
       {
         id: 7,
         titulo: "Proyecto_BD_SQL",
-        descripcion: "Desarrollo de la interfaz para el manejo de datos de una DB en SQL",
+        descripcion: "Desarrollo de la interfaz para el manejo de datos de una DB en SQL, desarrollada en PYTHON y MySQL-Workbench de manera conjunta.",
         url: "https://github.com/UMNG1802992/Proyecto_BD_SQL/blob/main/Sin%20t%C3%ADtulo.jpg?raw=true",
         url_preview: "https://github.com/UMNG1802992/Proyecto_BD_SQL",
         url_github: "https://github.com/UMNG1802992/Proyecto_BD_SQL",
