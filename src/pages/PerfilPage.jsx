@@ -16,7 +16,7 @@ export const PerfilPage = () => {
                         Soy un ingeniero mecatronico con gustos en el desarrollo de la tecnologia e
                         innovacion, con experiencia basica en desarrollo web, ademas de
                         programacion en java, python y c++, enfocado en entornos virtuales, tarjetas 
-                        de desarrollo y softwares; ademas de tener como hobbie el ciclismo.
+                        de desarrollo y software; ademas de tener como hobby el ciclismo.
                       </h3>
                     </div>
                 </div>
@@ -25,9 +25,9 @@ export const PerfilPage = () => {
  <div class="espacio3D">
   <div class="cubo3D">
     <div class="base"></div>
-    <aside class="cara cara1"><img src="/Champion_Ahri_HP.png" alt="gif de algo" width="100%" height="100%"/></aside>
+    <aside class="cara cara1"><img src="/logo_sinF.png" alt="gif de algo" width="100%"/></aside>
     <aside class="cara cara2"><img src="/Champion_ashe_HP.png" alt="gif de algo" width="100%" height="100%"/></aside>
-    <aside class="cara cara3"><img src="/logo_sinF.png" alt="gif de algo" width="100%"/></aside>
+    <aside class="cara cara3"><img src="/Champion_Ahri_HP.png" alt="gif de algo" width="100%" height="100%"/></aside>
     <aside class="cara cara4"><center><img src="/Champion_garen_HP.png" alt="gif de algo" width="82%"/></center></aside>
     <aside class="cara cara5"></aside>
     <aside class="cara cara6"></aside>
