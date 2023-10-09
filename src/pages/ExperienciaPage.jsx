@@ -17,8 +17,8 @@ export const ExperienciaPage = () => {
       de robótica; además de la atención <br/> al cliente y diseño de modelos 3D para 
       prototipado e impresión.
     <br/><br/>
-      Realice mis practicas laborales en el Banco Falabella SA, desarrollar funciones de apoyo en el área de 
-      auditoria IT, mediante la generación de informes, manejo de bases de datos y desarrollo de ETL'S.
+      Realice mis practicas laborales en el Banco Falabella SA, desarrollar funciones de apoyo en el área de <br/>
+      Auditoria IT, mediante la generación de informes, manejo de bases de datos y desarrollo de ETL'S.
   {/* Y en conjunto contigo podré crear e iniciar mi camino laboral. */}
 </h3>
       </div>
